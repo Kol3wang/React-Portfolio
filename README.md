@@ -71,6 +71,10 @@ To run this project locally, follow these steps:
 	•	Contact Me by filling out the form in the Contact section, which will display a success message    upon submission.
 	•	Download My Resume from the Resume section to learn more about my technical skills and experience.
 
+ ## Screenshots / Markdown
+ ![alt text](<src/Markdown/Screenshot 2024-10-08 at 10.25.19 PM.png>)
+ ![alt text](<src/Markdown/Screenshot 2024-10-08 at 10.24.26 PM.png>)
+ 
  ## Contact
 
  For any inquiries or collaborations, feel free to reach out to me through the following platforms:
