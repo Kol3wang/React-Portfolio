@@ -1,0 +1,40 @@
+.resume {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .resume h2 {
+    font-size: 2em;
+    color: #223555;
+    margin-bottom: 15px;
+  }
+  
+  .resume ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .resume ul li {
+    font-size: 1.1em;
+    color: #555;
+    margin: 5px 0;
+  }
+  
+  .resume a {
+    color: #66c2ff;
+    text-decoration: none;
+  }
+  
+  /* Responsive styling */
+  @media (max-width: 768px) {
+    .resume h2 {
+      font-size: 1.8em;
+    }
+  
+    .resume ul li {
+      font-size: 1em;
+    }
+  }

@@ -1,0 +1,38 @@
+.project {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  width: 300px;
+  text-align: center;
+}
+
+.project img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+.project h3 {
+  font-size: 1.5em;
+  color: #223555;
+  margin: 10px 0;
+}
+
+.project a {
+  display: inline-block;
+  margin: 5px;
+  color: #66c2ff;
+  text-decoration: none;
+}
+
+/* Responsive styling */
+@media (max-width: 768px) {
+  .project {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .project h3 {
+    font-size: 1.3em;
+  }
+}

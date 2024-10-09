@@ -1,0 +1,23 @@
+.footer {
+    background-color: #1a1a1a;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: #66c2ff;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 1.2em;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Responsive styling */
+  @media (max-width: 768px) {
+    .footer a {
+      font-size: 1em;
+    }
+  }
